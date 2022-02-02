@@ -1,0 +1,352 @@
+
+.brand-footer{
+	margin-top: -180px;
+}
+.ic{
+	width: 44px;
+	padding-top: 8px;
+	margin-bottom: 5px;
+}
+.ic-about{
+	width: 70px;
+	margin-left: 38px;
+	padding-bottom: 14px;
+}
+.ic-footer{
+	color: #fff;
+	border-radius: 20px;
+	background-color: #ff7f00;
+	padding: 8px;
+}
+.d4{
+	font-size: 12pt;
+}
+.font-all{
+	font-size: 10pt;
+}
+.box-about{
+	background-color: #fff;
+	padding: 2px;
+	border-radius: 9px;
+	font-size: 10pt;
+}
+.box-register{
+	background-color: #fff;
+	padding: 11px;
+	border-radius: 9px;
+	margin-top: 12px;
+	margin-bottom: 27px;
+}
+.box-register > p{
+	font-size: 10pt;
+	margin-top: 6px;
+}
+.about{
+	margin-top: 12px;
+}
+
+.menu2{
+	margin-top: 1px;
+}
+.pd a{
+	color: #000;
+	text-decoration: none;
+}
+
+.t-btn{
+	font-size: 9pt;
+	color: gray;
+}
+.p-tittle{
+	font-size: 9pt;
+	font-family: Poppins;
+}
+.navbar{
+	background-color: #fff;
+
+}
+.nav-mobile{
+	border-top-left-radius: 17px;
+	border-top-right-radius: 17px;
+	box-shadow: 0px 0 10px rgba(0, 0, 0, 0.24);
+}
+.navbar-brand{
+	color: #fff !important;
+}
+.tops{
+	color: #000000;
+	font-family: Poppins;
+
+	
+}
+
+.ss{
+	margin: 6px;
+	background-color: #fff;
+	height: 82px;
+	color: #000;
+	width: 73px;3
+	border-radius: 5px;
+	max-width: 73px;
+}
+.info-promo{
+	margin-top:14px;
+}
+.pendaftaran{
+	margin-top: 25px;
+}
+.card-promo{
+	margin-top: -3px;
+}
+.card-img{
+	border-radius: 20px !important;
+}
+.btn-daftar{
+	background-color: #ff7f00;
+	color: #fff;
+	font-family: 'Poppins';
+}
+
+.btn-reg{
+	color: #fff;
+}
+.card-text{
+	color: gray;
+	font-size: 10pt;
+	line-height: 1.7;
+	margin-top: 5px;
+}
+.text-suvis-footer{
+	font-family: Baloo;
+	font-size: 24pt;
+}
+.text-suvis-footer-p{
+	font-family: Baloo;
+}
+.kotak{
+	border-bottom-left-radius: 26px;
+	border-bottom-right-radius: 26px;
+	margin-top: -5px;
+	height: 196px;
+	margin-bottom: 97px;
+}
+.kotak-profile{
+	border-bottom-left-radius: 26px;
+	border-bottom-right-radius: 26px;
+	margin-top: -5px;
+	margin-bottom: 97px;
+}
+.text-suvis{
+	text-align: left !important;
+	font-family: Baloo;
+	font-size: 19pt;
+	color: #fff;
+	line-height:28.5px;
+}
+.text-tanggal{
+	font-family: Poppins;
+	font-size: 9pt;
+}
+.text-copy{
+	font-size: 10pt;
+	margin-top: 17px;
+}
+.bell{
+	background-color: #fff;
+	padding: 15px;
+	border-radius: 8px;
+	color: #BCBCBC !important;
+}
+.text-footer{
+	color: #000;
+	font-size: 9pt;
+	font-family: Poppins;
+}
+.nav-item{
+	margin-right: 30px;
+	margin-left: 30px;
+}
+.icon-nav-pesanan,
+.icon-nav-beranda,
+.icon-nav-profile{
+	filter: grayscale(100%);
+}
+
+/*footer*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,700i|Roboto');
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #F8F8F8;
+	font-family: Poppins;
+
+}
+.footer{
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding-top: 15px;
+	border-top-right-radius: 26px;
+	padding-bottom: 68px;
+	border-top-left-radius: 26px;
+}
+a,i{
+	color: #fff;
+	font-family: 'Roboto';
+	text-align: center;
+}
+
+
+
+/*TESTIMONI*/
+
+.testi{
+	background-color: #ff7f00;
+	padding-top: 18px;
+	padding-right: 18px;
+	padding-left: 18px;
+	border-radius: 21px;
+	color: #fff;
+}
+.photo_testi{
+	width: 100px !important;
+	border-radius: 66px !important;
+}
+.section-testi{
+	margin-top: 20px;
+}
+.nama_konsumen{
+	font-style: italic;
+	font-family: Poppins;
+	font-size: 12pt;
+}
+
+
+/*AKHIR TESTIMONI*/
+
+
+
+@media(max-width: 768px){
+	footer{
+		height: auto !important;
+		padding-top: 311px;
+	}
+	h2{
+		font-size: 30px;
+	}
+}
+
+
+
+
+@media (min-width: 992px) { 
+
+	.panel{
+		background-color: #fff;
+		box-shadow:  0 0 10px;
+
+		border-radius: 20px;
+		margin-top: -40px;
+
+		z-index: 1;
+	}
+	.navbar{
+		background-color: #f6a728;
+	}
+
+	.ic{
+		width: 200px;
+	}
+	.p-tittle{
+		font-size: 20pt;
+	}
+
+}
+
+
+
+/*HALAMAN LOGIN & REGISTER KONSUMEN*/
+.brand-servisin{
+	margin: auto;
+	width: 73%;
+}
+
+.form-login-konsumen{
+	background-color: #fff;
+	margin-top: 50px;
+	padding: 30px;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+}
+.form-login-konsumen span{
+	font-size: 11pt;
+	color: gray;
+}
+.form-login-konsumen-register{
+	background-color: #fff;
+	margin-top: 35px;
+	padding: 30px;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+}
+.form-login-konsumen-register span{
+	font-size: 11pt;
+	color: gray;
+}
+.form-input-konsumen{
+	margin-top:30px;
+}
+.btn-form-konsumen{
+	width: 100%;
+	background-color: #ff7f00;
+	color: #fff;
+	padding: 9px;
+	margin-top: 20px;
+	border-radius: 14px;
+}
+.middle-border{
+	display: flex;
+	flex-direction: row;
+	margin-top: 10px;
+	color: gray;
+	font-size: 10pt;
+}
+.middle-border:before,
+.middle-border:after {
+	content: "";
+	flex: 1 1;
+	border-bottom: 2px solid gray;
+	margin: auto;
+}
+
+.text-form-konsumen{
+	margin-top: 13px;
+	padding-bottom: 305px;
+}
+.text-form-konsumen a{
+	color: #ff7f00;
+	font-weight: bold;
+}
+.text-form-konsumen p{
+	font-size: 10pt;
+}
+
+.text-form-konsumen-register{
+	margin-top: 13px;
+	padding-bottom: 250px;
+}
+.text-form-konsumen-register a{
+	color: #ff7f00;
+	font-weight: bold;
+}
+.text-form-konsumen-register p{
+	font-size: 10pt;
+}
+
+
+.btn-form-konsumen-daftar{
+	width: 100%;
+	background-color: #ff7f00;
+	color: #fff;
+	padding: 9px;
+	border-radius: 14px;
+}
