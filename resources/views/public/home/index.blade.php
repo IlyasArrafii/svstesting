@@ -7,6 +7,13 @@
 			<div class="col-8 justify-content-left">
 				<p class="text-suvis">Suvis Indonesia <br> <span class="text-tanggal">Selasa 3 Maret 2021</span></p>
 			</div>
+
+			<div class="col-8 justify-content-left">
+				<p class="text-3xl font-bold underline tw-text-red-600 tw-opacity-75">Suvis Indonesia <br> <span class="text-tanggal">Selasa 3 Maret 2021</span></p>
+			</div>
+			<div class="col-8 justify-content-left">
+				<p class="text-3xl font-bold underline tw-text-white tw-opacity-75">Suvis Indonesia <br> <span class="text-tanggal">Selasa 3 Maret 2021</span></p>
+			</div>
 			<div class="col-4 justify-content-right text-right">
 				<a href="">
 					<i class="fa fa-bell bell"></i>
