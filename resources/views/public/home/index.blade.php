@@ -51,7 +51,7 @@
 		</div>
 
 	</div>
-	
+
 	<div class="justify-content-center d-md-none d-lg-none d-xl-none  d-xxl-none">
 
 		<div class="row justify-content-center ">
@@ -59,25 +59,25 @@
 				<div class="col-xs-4 ss">
 					<img src="assets/img/icon/ac.png" class="ic">
 					<p class="p-tittle text-center">AC</p>
-				</div>	
-			</a>	
+				</div>
+			</a>
 			<a href="aaa">
 				<div class="col-xs-4 ss">
 					<img src="assets/img/icon/kulkas.png" class="ic">
 					<p class="p-tittle text-center">Kulkas</p>
-				</div>		
+				</div>
 			</a>
 			<a href="">
 				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/wm.png"  class="ic">
+					<img src="assets/img/icon/wm.png" class="ic">
 					<p class="p-tittle text-center"> Mesin Cuci</p>
-				</div>	
+				</div>
 			</a>
 			<a href="">
 				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/vacum.png"  class="ic">
+					<img src="assets/img/icon/vacum.png" class="ic">
 					<p class="p-tittle text-center">Cleaning</p>
-				</div>	
+				</div>
 			</a>
 		</div>
 
@@ -87,28 +87,28 @@
 				<div class="col-xs-4 ss">
 					<img src="assets/img/icon/tv.png" class="ic">
 					<p class="p-tittle text-center">TV</p>
-				</div>	
+				</div>
 			</a>
 
 			<a href="">
 				<div class="col-xs-4 ss">
 					<img src="assets/img/icon/multic.png" class="ic">
 					<p class="p-tittle text-center">Magic Jar</p>
-				</div>	
+				</div>
 			</a>
 
 			<a href="">
 				<div class="col-xs-4 ss">
 					<img src="assets/img/icon/mc.png" class="ic">
 					<p class="p-tittle text-center">Microwave</p>
-				</div>	
+				</div>
 			</a>
 
-			<a href="lainnya.php" >
+			<a href="lainnya.php">
 				<div class="col-xs-4 ss">
 					<img src="assets/img/icon/pump.png" class="ic">
 					<p class="p-tittle text-center">Pompa Air</p>
-				</div>	
+				</div>
 			</a>
 
 		</div>
@@ -162,27 +162,27 @@
 				</div>
 				<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
 			</div>
-<!-- 		<div class="item">
+			<!-- 		<div class="item">
 			<img src="assets/img/konsumen/1.jpg" class="photo_testi mx-auto d-block">
 			<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
 		</div> -->
+		</div>
 	</div>
-</div>
 </div>
 
 
 <!-- AKHIR TESTIMONI -->
 
 
-<!-- PENDAFATARAN TEKNISI --> 
-<div class="container pendaftaran"> 
-	<span class="tops">Penyedia Jasa</span> 
+<!-- PENDAFATARAN TEKNISI -->
+<div class="container pendaftaran">
+	<span class="tops">Penyedia Jasa</span>
 	<div class="box-register"> <span class="tops
-		font-weight-bold">Bergabunglah Bersama Kami</span> 
+		font-weight-bold">Bergabunglah Bersama Kami</span>
 		<p class="text-left">Dapatkan berbagai keuntungan menjadi mitra Penyedia Jasa di
-		Suvis Indonesia!</p> 
-		<a href="" class="btn btn-daftar">Pelajari Selengkapnya</a> 
+			Suvis Indonesia!</p>
+		<a href="" class="btn btn-daftar">Pelajari Selengkapnya</a>
 	</div>
-</div> 
+</div>
 <!-- AKHIR PENDAFATARAN -->
 @include('public.home.footer')
