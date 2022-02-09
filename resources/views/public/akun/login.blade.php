@@ -1,6 +1,6 @@
 @include('public.layout.header')
 
-<div class="container" style="background-color: #ff7f00; padding-top: 15%; padding-left:0px; padding-right: 0px;">
+<div class="container" style="background-color: #ff7f00; padding-top: 5%; padding-left:0px; padding-right: 0px;">
 	<div class="brand-servisin">
 		<img src="assets/img/brand/servisin.png" width="255">
 	</div>
