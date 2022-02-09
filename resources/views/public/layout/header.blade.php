@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
@@ -12,10 +13,12 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="{{url('assets/owlcarousel/owl.carousel.min.css')}}">
 	<link rel="stylesheet" href="{{url('assets/owlcarousel/owl.theme.default.min.css')}}">
+	<link rel="stylesheet" href="{{ asset('/css/app.css')}}">
 	<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 	<link href='https://fonts.googleapis.com/css?family=Baloo' rel='stylesheet'>
 
 </head>
+
 <body>
 
 	<!-- NAVBAR -->
@@ -52,8 +55,13 @@
 				</li>
 
 				<li class="nav-item">
+<<<<<<< HEAD:resources/views/public/layout/header.blade.php
 					<a href="{{url('/login')}}" class="nav-link">
 						<img src="assets/img/icon/user.png" width="45"  class="icon-nav-profile">
+=======
+					<a href="login.php" class="nav-link">
+						<img src="assets/img/icon/user.png" width="45" class="icon-nav-profile">
+>>>>>>> 73d132179453262b0042b91f94535f508129bd11:resources/views/public/home/header.blade.php
 					</a>
 				</li>
 			</ul>
