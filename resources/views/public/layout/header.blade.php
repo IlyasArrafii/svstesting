@@ -55,13 +55,8 @@
 				</li>
 
 				<li class="nav-item">
-<<<<<<< HEAD:resources/views/public/layout/header.blade.php
 					<a href="{{url('/login')}}" class="nav-link">
 						<img src="assets/img/icon/user.png" width="45"  class="icon-nav-profile">
-=======
-					<a href="login.php" class="nav-link">
-						<img src="assets/img/icon/user.png" width="45" class="icon-nav-profile">
->>>>>>> 73d132179453262b0042b91f94535f508129bd11:resources/views/public/home/header.blade.php
 					</a>
 				</li>
 			</ul>
