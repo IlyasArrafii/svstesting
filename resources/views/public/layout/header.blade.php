@@ -7,10 +7,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-
+	<link rel="stylesheet" href="{{url('assets/css/bootstrap.min.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{url('assets/css/style.css')}}">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 	<link rel="stylesheet" href="{{url('assets/owlcarousel/owl.carousel.min.css')}}">
 	<link rel="stylesheet" href="{{url('assets/owlcarousel/owl.theme.default.min.css')}}">
 	<link rel="stylesheet" href="{{ asset('/css/app.css')}}">
@@ -30,9 +30,9 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 				<div class="navbar-nav ml-auto">
-					<a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-					<a class="nav-link" href="#">Features</a>
-					<a class="nav-link" href="#">Pricing</a>
+					<a class="nav-link active" href="#">Beranda <span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="#">Pesanan</a>
+					<a class="nav-link" href="#">Akun</a>
 					<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
 				</div>
 			</div>
@@ -56,7 +56,7 @@
 
 				<li class="nav-item">
 					<a href="{{url('/login')}}" class="nav-link">
-						<img src="assets/img/icon/user.png" width="45"  class="icon-nav-profile">
+						<img src="assets/img/icon/user.png" width="45" class="icon-nav-profile">
 					</a>
 				</li>
 			</ul>

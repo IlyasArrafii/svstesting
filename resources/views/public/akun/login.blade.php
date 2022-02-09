@@ -1,6 +1,6 @@
 @include('public.layout.header')
 
-<div class="container" style="background-color: #ff7f00; padding-top: 5%; padding-left:0px; padding-right: 0px;">
+<div class="tw-container tw-bg-[#ff7f00] tw-px-0" style="background-color: #ff7f00; padding-top: 5%;">
 	<div class="brand-servisin">
 		<img src="assets/img/brand/servisin.png" width="255">
 	</div>
@@ -10,23 +10,28 @@
 		<span>Silahkan masuk untuk melanjutkan</span>
 
 		<div class="form-input-konsumen">
-			<form>
-				<div class="form-group">
-					<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Email">
-				</div>
-				<div class="form-group">
-					<input type="password" class="form-control" id="formGroupExampleInput2" placeholder="Password">
-				</div>
+			<div class="tw-container md:tw-lg-relative">
+				<form>
+					<div class="form-group">
+						<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Email">
+					</div>
+					<div class="form-group">
+						<input type="password" class="form-control" id="formGroupExampleInput2" placeholder="Password">
+					</div>
 
-				<button type="submit" class="btn btn-warning btn-form-konsumen">Masuk</button>
-			</form>
+					<button type="submit" class="tw-rounded-xl tw-bg-orange-500 tw-text-white hover:tw-bg-orange-600 tw-duration-300 tw-px-10 tw-py-2.5 btn-block">Masuk</button>
+				</form>
+			</div>
 
 			<p class="middle-border">atau</p>
 
-			<button type="submit" class="btn btn-secondary" style="width: 100%; padding:9px; border-radius: 14px;">Tombol Google</button>
-
+			<div class="tw-container">
+				<div class="tw-place-content-center tw-py-3">
+					<button type="submit" class="xl:tw-w-56 xl:tw-place-content-center tw-rounded-xl tw-bg-blue-500/100 tw-text-white hover:tw-bg-blue-600 tw-duration-300 tw-px-10 tw-py-2.5 btn-block"><i class="fab fa-google"></i> Sign Google</button>
+				</div>
+			</div>
 			<div class="text-form-konsumen">
-				<p class="text-center">Belum Punya Akun? <a href="{{url('/register')}}">Daftar Disini</a></p>
+				<p class="text-center">Belum Punya Akun? <a class="tw-text-xs" href="{{url('/register')}}">Daftar Disini</a></p>
 			</div>
 		</div>
 	</div>

@@ -27,11 +27,11 @@
 					<input type="password" class="form-control" id="formGroupExampleInput2" placeholder="Konfirmasi Password">
 				</div>
 
-				<button type="submit" class="btn btn-warning btn-form-konsumen-daftar">Daftar</button>
+				<button type="submit" class="tw-rounded-xl tw-bg-[#ff7f00] tw-text-white hover:tw-bg-orange-600 tw-duration-300 tw-px-10 tw-py-2.5 btn-block">Daftar</button>
 			</form>
 
 			<div class="text-form-konsumen-register">
-				<p class="text-center">Sudah Punya Akun? <a href="{{url('/login')}}">Masuks Disini</a></p>
+				<p class="text-center">Sudah Punya Akun? <a href="{{url('/login')}}">Masuk Disini</a></p>
 			</div>
 		</div>
 	</div>
