@@ -1,5 +1,6 @@
-@include('public.home.header')
+@include('public.layout.header')
 <!-- AKHIR NAVBAR -->
+
 <span class="pages d-none">beranda</span>
 <div class="jumbotron jumbotron-fluid kotak" style="background-image: url('assets/img/kotak.png');">
 	<div class="container">

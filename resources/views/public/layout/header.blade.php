@@ -46,13 +46,13 @@
 				</li>
 
 				<li class="nav-item">
-					<a href="index.php" class="nav-link">
+					<a href="{{url('/')}}" class="nav-link">
 						<img src="assets/img/icon/house.png" width="45" class="icon-nav-beranda">
 					</a>
 				</li>
 
 				<li class="nav-item">
-					<a href="login.php" class="nav-link">
+					<a href="{{url('/login')}}" class="nav-link">
 						<img src="assets/img/icon/user.png" width="45"  class="icon-nav-profile">
 					</a>
 				</li>
