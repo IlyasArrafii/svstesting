@@ -427,14 +427,3 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-block {
   display: block;
 }
-.tw-text-red-600 {
-  --tw-text-opacity: 1;
-  color: rgb(220 38 38 / var(--tw-text-opacity));
-}
-.tw-text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-.tw-opacity-75 {
-  opacity: 0.75;
-}
