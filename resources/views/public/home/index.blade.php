@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-8 justify-content-left">
 				<p class="text-suvis">Suvis Indonesia <br> <span class="text-tanggal">Selasa 3 Maret 2021</span></p>
-			</div>			
+			</div>
 			<div class="col-4 justify-content-right text-right">
 				<a href="">
 					<i class="fa fa-bell bell"></i>
@@ -35,8 +35,8 @@
 
 
 <!-- PANEL PRODUK  -->
-<div class="container">
-	<div class="row">
+<div class="tw-container tw-mx-auto tw-my-3">
+	<div class="row tw-mx-auto">
 		<div class="col justify-content-left">
 			<span class="tops font-weight-bold">Layanan Servis</span>
 		</div>
@@ -46,61 +46,61 @@
 
 	</div>
 
-	<div class="justify-content-center d-md-none d-lg-none d-xl-none  d-xxl-none">
+	<div class="tw-cointainer justify-content-center tw-mx-auto">
 
-		<div class="row justify-content-center ">
+		<div class="tw-columns-4 tw-mx-auto tw-my-auto justify-content-center ">
 			<a href="aa">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/ac.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/ac.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">AC</p>
 				</div>
 			</a>
 			<a href="aaa">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/kulkas.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/kulkas.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">Kulkas</p>
 				</div>
 			</a>
 			<a href="">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/wm.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/wm.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center"> Mesin Cuci</p>
 				</div>
 			</a>
 			<a href="">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/vacum.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/vacum.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">Cleaning</p>
 				</div>
 			</a>
 		</div>
 
 
-		<div class="row justify-content-center pd menu2">
+		<div class="tw-columns-4 tw-mx-auto tw-mt-3 justify-content-center">
 			<a href="">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/tv.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/tv.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">TV</p>
 				</div>
 			</a>
 
 			<a href="">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/multic.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/multic.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">Magic Jar</p>
 				</div>
 			</a>
 
 			<a href="">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/mc.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/mc.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">Microwave</p>
 				</div>
 			</a>
 
 			<a href="lainnya.php">
-				<div class="col-xs-4 ss">
-					<img src="assets/img/icon/pump.png" class="ic">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon/pump.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
 					<p class="p-tittle text-center">Pompa Air</p>
 				</div>
 			</a>
@@ -115,19 +115,19 @@
 
 <!-- INFO DAN PROMO  -->
 
-<div class="container info-promo ">
-	<span class="tops text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
-	<div class="row about">
-		<div class="col">
-			<div class="box-about">
-				<p class="text-center">Cara Memesan Layanan Suvis</p>
-				<img src="assets/img/icon/information.png" class="ic-about">
+<div class="tw-container tw-mx-auto tw-my-3">
+	<span class="tops tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
+	<div class="tw-columns-2 tw-my-auto tw-mx-auto tw-text-xs tw-text-center">
+		<div class="tw-p-3">
+			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+				<p class="tw-my-1 tw-mx-1">Cara Memesan Layanan Suvis</p>
+				<img src="assets/img/icon/information.png" class="tw-mx-auto tw-py-2" style="width: 70px;">
 			</div>
 		</div>
-		<div class="col">
-			<div class="box-about">
-				<p class="text-center ">Apa Keunggulan Suvis Indonesia ?</p>
-				<img src="assets/img/icon/excellence.png" class="ic-about">
+		<div class="tw-p-3">
+			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+				<p class="tw-my-1 tw-mx-1">Apa Keunggulan Suvis Indonesia ?</p>
+				<img src="assets/img/icon/excellence.png" class="tw-mx-auto tw-py-2" style="width: 70px;">
 			</div>
 		</div>
 	</div>
@@ -138,8 +138,8 @@
 
 <!-- TESTIMONI -->
 <div class="container section-testi">
-	<div class="testi">
-		<p class="text-center font-weight-bold">Review Konsumen</p>
+	<div class="tw-mx-auto testi">
+		<p class="tw-mt-1 tw-mb-3 tw-p-1 tw-text-center tw-text-sm font-weight-bold">Review Konsumen</p>
 		<div class=" card-promo owl-carousel owl-theme ">
 			<div class="item">
 				<div class="pull-right">
@@ -169,9 +169,9 @@
 
 
 <!-- PENDAFATARAN TEKNISI -->
-<div class="container pendaftaran">
-	<span class="tops">Penyedia Jasa</span>
-	<div class="box-register"> <span class="tops
+<div class="tw-container tw-mx-auto tw-my-3 pendaftaran">
+	<span class="tops tw-mx-auto tw-p-3">Penyedia Jasa</span>
+	<div class="box-register tw-mx-auto tw-p-3"> <span class="tops
 		font-weight-bold">Bergabunglah Bersama Kami</span>
 		<p class="text-left">Dapatkan berbagai keuntungan menjadi mitra Penyedia Jasa di
 			Suvis Indonesia!</p>
