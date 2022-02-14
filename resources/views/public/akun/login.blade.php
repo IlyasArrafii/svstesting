@@ -7,7 +7,7 @@
 
 	<div class="form-login-konsumen">
 		<h5 class="font-weight-bold">Selamat Datang</h5>
-		<span>Silahkan masuk untuk melanjutkan</span>
+		<span>Silahkan masuk untuk melanjutkan a</span>
 
 		<div class="form-input-konsumen">
 			<div class="tw-container md:tw-lg-relative">
