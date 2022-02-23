@@ -6,7 +6,14 @@ module.exports = {
         "./resources/**/*.vue",
     ],
     theme: {
-        extend: {},
+        fontFamily: {
+            poppins: ["Poppins", "Poppins"],
+        },
+        extend: {
+            rounded: {
+                "4xl": "40px",
+            },
+        },
     },
     plugins: [],
 };

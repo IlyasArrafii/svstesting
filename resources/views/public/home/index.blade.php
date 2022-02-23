@@ -2,7 +2,7 @@
 <!-- AKHIR NAVBAR -->
 
 <span class="pages d-none">beranda</span>
-<div class="jumbotron jumbotron-fluid kotak" style="background-image: url('assets/img/kotak.png');">
+<div class="tw-container md:tw-max-w-full jumbotron jumbotron-fluid kotak" style="background-image: url('assets/img/kotak.png');">
 	<div class="container">
 		<div class="row">
 			<div class="col-8 justify-content-left">
@@ -35,20 +35,19 @@
 
 
 <!-- PANEL PRODUK  -->
-<div class="tw-container tw-mx-auto tw-my-3">
-	<div class="row tw-mx-auto">
-		<div class="col justify-content-left">
+<div class="tw-container tw-mx-auto tw-my-3 lg:tw-max-w-full md:tw-max-w-full">
+	<div class="tw-flex tw-mb-3">
+		<div class="tw-flex-1 tw-mx-3">
 			<span class="tops font-weight-bold">Layanan Servis</span>
 		</div>
-		<div class="col justify-content-right text-right">
+		<div class="tw-justify-end tw-mx-3">
 			<a href="" class="tops font-all">Lihat Semua</a>
 		</div>
-
 	</div>
 
 	<div class="tw-cointainer justify-content-center tw-mx-auto">
 
-		<div class="tw-columns-4 tw-mx-auto tw-my-auto justify-content-center ">
+		<div class="tw-columns-4 tw-mx-3 tw-my-auto justify-content-center ">
 			<a href="aa">
 				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
 					<img src="assets/img/icon/ac.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
@@ -76,7 +75,7 @@
 		</div>
 
 
-		<div class="tw-columns-4 tw-mx-auto tw-mt-3 justify-content-center">
+		<div class="tw-columns-4 tw-mx-3 tw-mt-3 justify-content-center">
 			<a href="">
 				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
 					<img src="assets/img/icon/tv.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 44px;">
@@ -115,8 +114,8 @@
 
 <!-- INFO DAN PROMO  -->
 
-<div class="tw-container tw-mx-auto tw-my-3">
-	<span class="tops tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
+<div class="tw-container tw-mx-auto tw-my-3 md:tw-max-w-full">
+	<span class="tw-font-[Poppins] tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
 	<div class="tw-columns-2 tw-my-auto tw-mx-auto tw-text-xs tw-text-center">
 		<div class="tw-p-3">
 			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
@@ -137,11 +136,11 @@
 
 
 <!-- TESTIMONI -->
-<div class="container section-testi">
+<div class="tw-container tw-mx-auto md:tw-max-w-full lg:tw-max-w-full md:tw-p-3 section-testi">
 	<div class="tw-mx-auto testi">
 		<p class="tw-mt-1 tw-mb-3 tw-p-1 tw-text-center tw-text-sm font-weight-bold">Review Konsumen</p>
-		<div class=" card-promo owl-carousel owl-theme ">
-			<div class="item">
+		<div class="card-promo owl-carousel owl-theme tw-flex">
+			<div class="item tw-flex-1">
 				<div class="pull-right">
 					<img src="assets/img/konsumen/1.jpg" class="photo_testi">
 					<p class="nama_konsumen">Rafy Akbar</p>
@@ -169,8 +168,8 @@
 
 
 <!-- PENDAFATARAN TEKNISI -->
-<div class="tw-container tw-mx-auto tw-my-3 pendaftaran">
-	<span class="tops tw-mx-auto tw-p-3">Penyedia Jasa</span>
+<div class="tw-container tw-mx-auto md:tw-max-w-full tw-my-3 pendaftaran tw-bg-red-500 md:tw-p-3">
+	<span class="tops tw-mx-auto">Penyedia Jasa</span>
 	<div class="box-register tw-mx-auto tw-p-3"> <span class="tops
 		font-weight-bold">Bergabunglah Bersama Kami</span>
 		<p class="text-left">Dapatkan berbagai keuntungan menjadi mitra Penyedia Jasa di
