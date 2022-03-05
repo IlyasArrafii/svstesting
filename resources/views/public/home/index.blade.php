@@ -136,29 +136,31 @@
 
 
 <!-- TESTIMONI -->
-<div class="tw-container tw-mx-auto md:tw-max-w-full lg:tw-max-w-full md:tw-p-3 section-testi">
-	<div class="tw-mx-auto testi">
-		<p class="tw-mt-1 tw-mb-3 tw-p-1 tw-text-center tw-text-sm font-weight-bold">Review Konsumen</p>
-		<div class="card-promo owl-carousel owl-theme tw-flex">
-			<div class="item tw-flex-1">
-				<div class="pull-right">
-					<img src="assets/img/konsumen/1.jpg" class="photo_testi">
-					<p class="nama_konsumen">Rafy Akbar</p>
+<div class="tw-container md:tw-max-w-full lg:tw-max-w-full md:tw-p-3 tw-mt-5">
+	<div class="tw-mx-auto tw-p-3">
+		<div class="tw-bg-[#ff7f00] tw-rounded-3xl tw-px-4 tw-pt-4">
+			<p class="tw-mt-1 tw-mb-3 tw-p-1 tw-text-center tw-text-sm font-weight-bold">Review Konsumen</p>
+			<div class="card-promo owl-carousel owl-theme tw-flex">
+				<div class="item tw-flex-1">
+					<div class="pull-right">
+						<img src="assets/img/konsumen/1.jpg" class="photo_testi">
+						<p class="nama_konsumen">Rafy Akbar</p>
+					</div>
+					<p class="text-left">Suvis Indonesia memang sangat membantu ketika barang elektronik saya bermasalah.</p>
 				</div>
-				<p class="text-left">Suvis Indonesia memang sangat membantu ketika barang elektronik saya bermasalah.</p>
-			</div>
 
-			<div class="item">
-				<div class="pull-right">
-					<img src="assets/img/konsumen/1.jpg" class="photo_testi">
-					<p class="nama_konsumen">Rafy Akbar</p>
+				<div class="item">
+					<div class="pull-right">
+						<img src="assets/img/konsumen/1.jpg" class="photo_testi">
+						<p class="nama_konsumen">Rafy Akbar</p>
+					</div>
+					<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
 				</div>
-				<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-			</div>
-			<!-- 		<div class="item">
+				<!-- 		<div class="item">
 			<img src="assets/img/konsumen/1.jpg" class="photo_testi mx-auto d-block">
 			<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
 		</div> -->
+			</div>
 		</div>
 	</div>
 </div>
@@ -168,13 +170,17 @@
 
 
 <!-- PENDAFATARAN TEKNISI -->
-<div class="tw-container tw-mx-auto md:tw-max-w-full tw-my-3 pendaftaran tw-bg-red-500 md:tw-p-3">
-	<span class="tops tw-mx-auto">Penyedia Jasa</span>
-	<div class="box-register tw-mx-auto tw-p-3"> <span class="tops
+<div class="tw-container md:tw-max-w-full tw-my-3 pendaftaran md:tw-p-3">
+	<div class="tw-mx-auto tw-px-3">
+		<span class="tops">Penyedia Jasa</span>
+	</div>
+	<div class="tw-mx-auto tw-px-3">
+		<div class="tw-p-3 tw-my-4 tw-rounded-lg tw-bg-white tw-font-poppins"> <span class="tops
 		font-weight-bold">Bergabunglah Bersama Kami</span>
-		<p class="text-left">Dapatkan berbagai keuntungan menjadi mitra Penyedia Jasa di
-			Suvis Indonesia!</p>
-		<a href="" class="btn btn-daftar">Pelajari Selengkapnya</a>
+			<p class="text-left">Dapatkan berbagai keuntungan menjadi mitra Penyedia Jasa di
+				Servisin!</p>
+			<a href="" class="btn btn-daftar">Pelajari Selengkapnya</a>
+		</div>
 	</div>
 </div>
 <!-- AKHIR PENDAFATARAN -->

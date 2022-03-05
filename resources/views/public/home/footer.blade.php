@@ -3,7 +3,7 @@
 <div class="container-fluid footer text-center">
 	<div class="row">
 		<div class="col-md-3">
-			<h4 class="text-suvis-footer">Suvis Indonesia</h4>
+			<h4 class="text-suvis-footer">Servisin</h4>
 			<p class="text-suvis-footer-p">#Kamiselesaikanpekerjaanmu</p>
 		</div>
 		<div class="col-md-3">
@@ -13,7 +13,7 @@
 			<i class="fa fa-facebook fa-lg ic-footer" aria-hidden="true"></i>
 		</div>
 		<div class="col-md-3">
-			<p class="text-copy">Copyright &copy; 2021 PT.Suvis Indonesia</p>
+			<p class="text-copy">Copyright &copy; 2021 PT.Servisin</p>
 			<a href="" class="text-footer">Kebijkan Privasi</a> | <a href="" class="text-footer">Syarat Penggunaan</a>
 		</div>
 	</div>

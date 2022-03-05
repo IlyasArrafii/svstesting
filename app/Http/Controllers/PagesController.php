@@ -22,6 +22,9 @@ class PagesController extends Controller
 
         return view('public.akun.register');
     }
+    public function pesanan()
+    {
 
-    
+        return view('public.pesanan.index');
+    }
 }

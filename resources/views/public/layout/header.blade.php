@@ -43,7 +43,7 @@
 		<div class="container justify-content-center">
 			<ul class="navbar-nav">
 				<li class="nav-item">
-					<a href="pesanan.php" class="nav-link">
+					<a href="{{url('/pesanan')}}" class="nav-link">
 						<img src="assets/img/icon/news.png" width="45" class="icon-nav-pesanan">
 					</a>
 				</li>

@@ -5,7 +5,7 @@
 		<img src="assets/img/brand/servisin.png" width="255" class="tw-m-auto md:tw-content-start">
 	</div>
 
-	<div class="tw-container tw-max-w-full md:tw-max-w-full tw-text-sm tw-bg-white tw-mt-12 tw-p-7 tw-rounded-t-4xl">
+	<div class="tw-container tw-max-w-full md:tw-max-w-full tw-text-sm tw-bg-white tw-mt-12 tw-p-7 tw-rounded-t-3xl">
 		<h5 class="tw-font-bold">Selamat Datang</h5>
 		<span class="tw-text-gray-600">Silahkan masuk untuk melanjutkan</span>
 
