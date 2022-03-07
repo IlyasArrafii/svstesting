@@ -27,4 +27,9 @@ class PagesController extends Controller
 
         return view('public.pesanan.index');
     }
+    public function profil()
+    {
+
+        return view('public.akun.profil');
+    }
 }

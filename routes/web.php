@@ -25,6 +25,7 @@ Route::get('/', [PagesController::class, 'index']);
 Route::get('/login', [PagesController::class, 'login']);
 Route::get('/register', [PagesController::class, 'register']);
 Route::get('/pesanan', [PagesController::class, 'pesanan']);
+Route::get('/profil', [PagesController::class, 'profil']);
 
 
 
