@@ -35,7 +35,7 @@
 
 
 <!-- PANEL PRODUK  -->
-<div class="tw-container tw-mx-auto tw-my-3 lg:tw-max-w-full md:tw-max-w-full">
+<div class="tw-container tw-mx-auto tw-my-3">
 	<div class="tw-flex tw-mb-3">
 		<div class="tw-flex-1 tw-mx-3">
 			<span class="tops font-weight-bold">Layanan Servis</span>
@@ -114,7 +114,7 @@
 
 <!-- INFO DAN PROMO  -->
 
-<div class="tw-container tw-mx-auto tw-my-3 md:tw-max-w-full">
+<div class="tw-container tw-mx-auto tw-my-3">
 	<span class="tw-font-[Poppins] tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
 	<div class="tw-columns-2 tw-my-auto tw-mx-auto tw-text-xs tw-text-center">
 		<div class="tw-p-3">
