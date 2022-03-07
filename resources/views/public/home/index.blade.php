@@ -115,7 +115,6 @@
 <!-- INFO DAN PROMO  -->
 
 <div class="tw-container tw-mx-auto tw-my-3">
-	<span class="tw-font-[Poppins] tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
 	<div class="tw-columns-2 tw-my-auto tw-mx-auto tw-text-xs tw-text-center">
 		<div class="tw-p-3">
 			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
@@ -127,6 +126,19 @@
 			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
 				<p class="tw-my-1 tw-mx-1">Apa Keunggulan Suvis Indonesia ?</p>
 				<img src="assets/img/icon/excellence.png" class="tw-mx-auto tw-py-2" style="width: 70px;">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="tw-container tw-mx-auto tw-my-3">
+	<span class="tw-font-[Poppins] tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
+	<div class="tw-container tw-mx-auto">
+		<div class="tw-p-3 tw-mb-10">
+			<div class="tw-border-[#fff] tw-bg-[#fff] tw-rounded-xl tw-border tw-mt-1">
+				<p class="tw-px-5 tw-pt-3 tw-font-poppins tw-text-xl">Servisin</p>
+				<p class="tw-px-5 tw-font-poppins tw-text-xs">#solusiterbaikhomeservice</p>
+				<p class="tw-px-5 tw-font-poppins tw-text-xs tw-text-justify tw-pt-2">Kami adalah Startup yang bertujuan untuk melayani layanan home service perbaikan perabot elektronik rumah tangga. Servisin menghubungkan antara konsumen dan teknisi di berbagai lokasi dengan berbagai macam layanan yang tersedia.</p>
+				<p class="tw-px-5 tw-font-bold tw-text-right tw-font-poppins tw-text-xs tw-mt-1 tw-mb-3">Selengkapnya</p>
 			</div>
 		</div>
 	</div>
