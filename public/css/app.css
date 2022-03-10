@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.0.23 | MIT License | https://tailwindcss.com
+! tailwindcss v3.0.18 | MIT License | https://tailwindcss.com
 *//*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
@@ -497,6 +497,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-mt-1 {
   margin-top: 0.25rem;
 }
+.tw-mb-1 {
+  margin-bottom: 0.25rem;
+}
 .tw-mt-3 {
   margin-top: 0.75rem;
 }
@@ -506,8 +509,17 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-mr-\[40\%\] {
   margin-right: 40%;
 }
-.tw-mb-1 {
-  margin-bottom: 0.25rem;
+.tw-mb-5 {
+  margin-bottom: 1.25rem;
+}
+.tw-mb-2 {
+  margin-bottom: 0.5rem;
+}
+.tw-mr-3 {
+  margin-right: 0.75rem;
+}
+.tw-ml-2 {
+  margin-left: 0.5rem;
 }
 .tw-mt-5 {
   margin-top: 1.25rem;
@@ -635,31 +647,28 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-left: 0.75rem;
   padding-right: 0.75rem;
 }
-.tw-px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
 .tw-px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
+.tw-px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 .tw-pb-2 {
   padding-bottom: 0.5rem;
-}
-.tw-pl-3 {
-  padding-left: 0.75rem;
 }
 .tw-pt-2 {
   padding-top: 0.5rem;
 }
-.tw-pt-4 {
-  padding-top: 1rem;
+.tw-pl-3 {
+  padding-left: 0.75rem;
 }
 .tw-pt-3 {
   padding-top: 0.75rem;
 }
-.tw-pt-1 {
-  padding-top: 0.25rem;
+.tw-pt-4 {
+  padding-top: 1rem;
 }
 .tw-text-left {
   text-align: left;
@@ -689,6 +698,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .tw-text-xl {
   font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.tw-text-lg {
+  font-size: 1.125rem;
   line-height: 1.75rem;
 }
 .tw-font-bold {

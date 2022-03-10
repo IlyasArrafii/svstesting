@@ -133,7 +133,7 @@
 <div class="tw-container tw-mx-auto tw-my-3">
 	<span class="tw-font-[Poppins] tw-mx-auto tw-p-3 text-about font-weight-bold" style="margin-bottom: 10px;">Ketahui Tentang Kami</span>
 	<div class="tw-container tw-mx-auto">
-		<div class="tw-p-3 tw-mb-10">
+		<div class="tw-p-3 tw-mb-5">
 			<div class="tw-border-[#fff] tw-bg-[#fff] tw-rounded-xl tw-border tw-mt-1">
 				<p class="tw-px-5 tw-pt-3 tw-font-poppins tw-text-xl">Servisin</p>
 				<p class="tw-px-5 tw-font-poppins tw-text-xs">#solusiterbaikhomeservice</p>
@@ -143,9 +143,45 @@
 		</div>
 	</div>
 </div>
-
 <!-- AKHIR INFO DAN PROMO -->
 
+<div class="tw-container tw-mx-auto">
+	<div class="tw-flex tw-my-auto tw-mx-auto tw-text-xs tw-text-center">
+		<div class="tw-mx-3 tw-flex-1 tw-mb-3">
+			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+				<img src="assets/img/icon1/teknisi.png" class="tw-mx-auto tw-py-2 tw-mb-2" style="width: 70px;">
+				<p class="tw-my-1 tw-text-lg tw-font-bold tw-mx-1">20</p>
+				<p class="tw-mt-1 tw-mb-2 tw-font-bold tw-mx-1">Penyedia Jasa</p>
+			</div>
+		</div>
+		<div class="tw-mx-3 tw-flex-1 tw-mb-3">
+			<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+				<img src="assets/img/icon1/setting.png" class="tw-mx-auto tw-py-2 tw-mb-2" style="width: 70px;">
+				<p class="tw-my-1 tw-text-lg tw-font-bold tw-mx-1">20</p>
+				<p class="tw-mt-1 tw-mb-2 tw-font-bold tw-mx-1">Penyedia Jasa</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="tw-mx-auto">
+		<div class="tw-flex tw-mx-auto tw-text-xs tw-text-center">
+			<div class="tw-mx-3 tw-flex-1">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon1/note.png" class="tw-mx-auto tw-py-2" style="width: 70px;">
+					<p class="tw-my-1 tw-text-lg tw-font-bold tw-mx-1">100</p>
+					<p class="tw-mt-1 tw-mb-2 tw-font-bold tw-mx-1">Pekerjaan Selesai</p>
+				</div>
+			</div>
+			<div class="tw-mx-3 tw-mr-3 tw-ml-2 tw-flex-1">
+				<div class="tw-border tw-rounded-lg tw-border-[#fff] tw-bg-[#fff]">
+					<img src="assets/img/icon1/youth.png" class="tw-mx-auto tw-py-2" style="width: 70px;">
+					<p class="tw-my-1 tw-text-lg tw-font-bold tw-mx-1">50</p>
+					<p class="tw-mt-1 tw-mb-2 tw-font-bold tw-mx-1">Konsumen Puas</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 <!-- TESTIMONI -->
 <div class="tw-container md:tw-max-w-full lg:tw-max-w-full md:tw-p-3 tw-mt-5">

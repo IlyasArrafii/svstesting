@@ -10,8 +10,12 @@
 </div>
 <div class="tw-container tw-mx-auto tw-mt-12">
     <div class="tw-mx-3">
-        <div class="tw-border-[#fff] tw-bg-[#ff7f00] tw-rounded-xl tw-border tw-mt-1 tw-shadow-md">
-            <p class="tw-my-1 tw-px-3 tw-font-poppins tw-text-sm tw-mt-3">Afif Fathurrahman</p>
+        <div class="tw-border-[#fff] tw-rounded-xl tw-border tw-mt-1 tw-shadow-md">
+            <img src="assets/img/icon1/profile.png" class="tw-mx-auto tw-pt-2 tw-mb-1" style="width: 90px;">
+            <div class="tw-mx-auto tw-flex">
+                <img src="assets/img/icon1/profile.png" class="tw-mx-auto tw-pt-2 tw-mb-1 tw-flex-1" style="width: 44px;">
+                <p class="tw-my-1 tw-px-3 tw-font-poppins tw-text-sm tw-mt-3 tw-flex-1">Afif Fathurrahman</p>
+            </div>
             <i class="fa-solid fa-phone tw-border-slate-600 tw-bg-orange-500"></i>
             <p class="tw-my-1 tw-px-3 tw-font-poppins tw-text-sm tw-mt-1">Jl. H. Syukur VIC Blok C-14 Sedati, Sidoarjo </p>
             <div class="tw-flex tw-pb-2">
