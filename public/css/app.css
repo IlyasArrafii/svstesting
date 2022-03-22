@@ -457,6 +457,12 @@ Ensure the default browser behavior of the `hidden` attribute.
     max-width: 1536px;
   }
 }
+.tw-float-right {
+  float: right;
+}
+.tw-float-left {
+  float: left;
+}
 .tw-m-auto {
   margin: auto;
 }
@@ -487,6 +493,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+.tw-mx-5 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
 }
 .tw-mt-12 {
   margin-top: 3rem;
@@ -533,6 +543,60 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-mb-10 {
   margin-bottom: 2.5rem;
 }
+.tw-mr-\[90\%\] {
+  margin-right: 90%;
+}
+.tw-mr-\[10\%\] {
+  margin-right: 10%;
+}
+.tw-ml-\[10\%\] {
+  margin-left: 10%;
+}
+.tw-ml-1 {
+  margin-left: 0.25rem;
+}
+.tw--mt-1 {
+  margin-top: -0.25rem;
+}
+.tw--mt-2 {
+  margin-top: -0.5rem;
+}
+.tw-ml-3 {
+  margin-left: 0.75rem;
+}
+.tw--mt-3 {
+  margin-top: -0.75rem;
+}
+.tw--mt-4 {
+  margin-top: -1rem;
+}
+.tw--mt-0 {
+  margin-top: -0px;
+}
+.tw-mr-\[50\%\] {
+  margin-right: 50%;
+}
+.tw-mr-\[30\%\] {
+  margin-right: 30%;
+}
+.tw-mr-\[35\%\] {
+  margin-right: 35%;
+}
+.tw-mr-\[29\%\] {
+  margin-right: 29%;
+}
+.tw-mr-\[25\%\] {
+  margin-right: 25%;
+}
+.tw-mr-\[22\%\] {
+  margin-right: 22%;
+}
+.tw-mr-\[20\%\] {
+  margin-right: 20%;
+}
+.tw-ml-5 {
+  margin-left: 1.25rem;
+}
 .tw-block {
   display: block;
 }
@@ -545,6 +609,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-flex-1 {
   flex: 1 1 0%;
 }
+.tw-shrink {
+  flex-shrink: 1;
+}
+.tw-shrink-0 {
+  flex-shrink: 0;
+}
 .tw-columns-4 {
   -moz-columns: 4;
        columns: 4;
@@ -552,6 +622,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-columns-2 {
   -moz-columns: 2;
        columns: 2;
+}
+.tw-flex-row {
+  flex-direction: row;
+}
+.tw-flex-col {
+  flex-direction: column;
 }
 .tw-place-content-center {
   place-content: center;
@@ -567,6 +643,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .tw-rounded-3xl {
   border-radius: 1.5rem;
+}
+.tw-rounded-sm {
+  border-radius: 0.125rem;
+}
+.tw-rounded-md {
+  border-radius: 0.375rem;
 }
 .tw-rounded-t-3xl {
   border-top-left-radius: 1.5rem;
@@ -590,6 +672,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-border-\[\#FFF0B3\] {
   --tw-border-opacity: 1;
   border-color: rgb(255 240 179 / var(--tw-border-opacity));
+}
+.tw-border-white {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+.tw-border-gray-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(75 85 99 / var(--tw-border-opacity));
 }
 .tw-bg-\[\#ff7f00\] {
   --tw-bg-opacity: 1;
@@ -623,6 +713,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-p-3 {
   padding: 0.75rem;
 }
+.tw-p-2 {
+  padding: 0.5rem;
+}
 .tw-px-0 {
   padding-left: 0px;
   padding-right: 0px;
@@ -654,6 +747,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 .tw-px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+.tw-px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+.tw-py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 .tw-pb-2 {
   padding-bottom: 0.5rem;
