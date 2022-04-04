@@ -1,14 +1,7 @@
 <?php
 
-use App\Http\Controllers\Admin\AnggotaController;
-use App\Http\Controllers\Admin\HomeController;
-use App\Http\Controllers\Admin\KonsumenController;
-use App\Http\Controllers\Admin\LayananController;
-use App\Http\Controllers\Admin\PemesananController;
-use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\AuthController;
 use App\Http\Controllers\PagesController;
-use App\Models\Anggota;
+use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,7 +14,7 @@ use App\Models\Anggota;
 |
 */
 
-Route::get('/', [PagesController::class, 'index']);
+// Route::get('/', [PagesController::class, 'index']);
 Route::get('/login', [PagesController::class, 'login']);
 Route::get('/register', [PagesController::class, 'register']);
 Route::get('/pesanan', [PagesController::class, 'pesanan']);
@@ -78,3 +71,13 @@ Route::get('/profil', [PagesController::class, 'profil']);
 // Route::get('/confirm/{id}', [PemesananController::class, 'confirm']);
 // Route::get('/tolak/{id}', [PemesananController::class, 'tolak']);
 // >>>>>>> 73d132179453262b0042b91f94535f508129bd11
+
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
+
+require __DIR__ . '/auth.php';
